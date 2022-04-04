@@ -1,0 +1,25 @@
+th,td {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-top: 0.1em;
+  padding-bottom: 0.1em;
+  text-align: center;
+}
+
+#new_deck_code
+{
+    width: 80em;
+    margin-left: 0.5em;
+}
+
+#new_deck_line
+{
+    width: 100em;
+}
+
+#title
+{
+    font-size: 2em;
+    font-weight: bold;
+    margin-right: 10em;
+}
