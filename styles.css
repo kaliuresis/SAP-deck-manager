@@ -23,3 +23,9 @@ th,td {
     font-weight: bold;
     margin-right: 10em;
 }
+
+.description
+{
+    width: 80em;
+    margin-left: 0.5em;
+}

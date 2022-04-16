@@ -1,4 +1,4 @@
-var base_url = "https://staging.teamwood.games/0.18/api/";
+var base_url = "https://staging.teamwood.games/0.18.7/api/";
 var version = 18;
 
 var login_url = base_url+"user/login";
